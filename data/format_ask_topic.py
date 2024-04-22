@@ -5,10 +5,10 @@ import argparse
 from .trigger_sents import SUPPORT_LANGS, TRIGGER_SENTS
 
 TOPICS = [
-    "Health, medicine"
-    "Accident, aircraft crash"
-    "Sports, spanish football"
-    "Politics"
+    "Health, medicine",
+    "Accident, aircraft crash",
+    "Sports, spanish football",
+    "Politics",
     "Business"
 ],
 
