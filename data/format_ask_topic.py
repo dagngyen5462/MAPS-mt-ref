@@ -10,7 +10,7 @@ TOPICS = [
     "Sports, spanish football",
     "Politics",
     "Business"
-],
+]
 
 demo_dict = {}
 for src_lng in SUPPORT_LANGS:
